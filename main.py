@@ -5,8 +5,8 @@ from datetime import datetime, timedelta
 from apscheduler.schedulers.background import BackgroundScheduler
 
 # ================= ⚙️ কনফিগারেশন =================
-BOT_TOKEN = 'এখানে_আপনার_বটের_টোকেন_দিন'
-ADMIN_ID = 123456789  # এখানে আপনার টেলিগ্রাম আইডি দিন
+BOT_TOKEN = '8012747809:AAFfZh4KIQ3LfZOYgNa2or8G8VWRUpkq8ZM'
+ADMIN_ID = 8942875944  # এখানে আপনার টেলিগ্রাম আইডি দিন
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
